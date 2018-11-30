@@ -72,8 +72,6 @@ module.exports = {
           exclude: /(node_modules)/
         })
       }
-    },
-    // leo
-    cache: true
+    }
   }
 }
